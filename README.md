@@ -1,2 +1,8 @@
-# food_competition
-info and code for food competition
+# Food Competition
+Информация и код для соревнования.
+
+Ссылка на данные - 
+Ссылка на чекпойнт модели - 
+
+Данные должны быть в папке data/
+Чекпойнт в папке output/
