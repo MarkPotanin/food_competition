@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+#CUDA 10.1
+# base ----------------------------------------
+scikit-image
+opencv-python
+imutils
+ipywidgets
+-f https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.5/index.html
+detectron2
+torch==1.5.0
+torchvision==0.6.0
+tqdm
