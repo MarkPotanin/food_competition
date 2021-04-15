@@ -25,7 +25,7 @@
  
 Ссылка на данные - https://drive.google.com/file/d/1oEFlMYD8eWPahCx5OwIorwbFtZz28Y3E/view?usp=sharing . Внутри есть две папки: to_admin и to_participants. Соответственно участникам соревнования доступны только данные из to_participants. Данные из to_admin предназначаются для администраторов соревнования и настройки системы.
 
-Ссылка на новые данные (14.04.21) - https://drive.google.com/file/d/1u0WS2kFYolCQpmX671v_udV7Z98EOXEw/view?usp=sharing. Расширены public/private.
+Ссылка на новые данные (15.04.21) - https://drive.google.com/file/d/1u0WS2kFYolCQpmX671v_udV7Z98EOXEw/view?usp=sharing. Расширены public/private.
 
 Ссылка на чекпойнт модели - https://drive.google.com/file/d/1HErx5YDHLjDu8JcCuLGSGYJuYN1Jhv1z/view?usp=sharing
 
